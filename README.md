@@ -27,7 +27,7 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 <h3>Insights</h3><hr>
 <b>Executive Summary</b>
-![image](https://github.com/akhilkn27/US_Healthcare_Analytics_PowerBI_Insights/assets/121345663/168d2a53-4313-4f7b-9d3c-4deffb3ed347)
+https://github-production-user-asset-6210df.s3.amazonaws.com/121345663/298363749-168d2a53-4313-4f7b-9d3c-4deffb3ed347.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240121T062429Z&X-Amz-Expires=300&X-Amz-Signature=1dc4cff62c387f34ab255a12cc0497cdcf3e51763f16d16d7f88ba8bf814b649&X-Amz-SignedHeaders=host&actor_id=121345663&key_id=0&repo_id=746126745
 <br>This section provides a concise yet comprehensive summary of key insights and findings derived from the analysis of the U.S. healthcare industry for the years 2019-2020.
 
 <h3>Hospital Insights</h3>
