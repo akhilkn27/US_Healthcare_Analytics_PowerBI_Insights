@@ -5,25 +5,25 @@
 This project intricately analyzes the U.S. healthcare landscape from 2019 to 2020, offering profound insights into key facets of the industry. It is meticulously designed, with each page unfolding a different chapter, providing valuable learnings within the evolving healthcare narrative. Explore the heartbeat of healthcare, where every word is meticulously chosen for a meaningful journey.<hr>
 
 <ul>
-  <li><b>Unlocking Insights for Informed Healthcare Decision-Making:</b> This endeavor offers a comprehensive analysis of the U.S. healthcare industry for the years 2019-2020 through PowerBI. Dive into detailed reports and visualizations that provide strategic insights for healthcare stakeholders.</b></li>
+  <li><b><u>Unlocking Insights for Informed Healthcare Decision-Making:</b></u> This endeavor offers a comprehensive analysis of the U.S. healthcare industry for the years 2019-2020 through PowerBI. Dive into detailed reports and visualizations that provide strategic insights for healthcare stakeholders.</b></li><br>
 
-<li><b>Empowering Informed Healthcare Decisions through Analytical Insights: Discover valuable insights into the U.S. healthcare industry from 2019 to 2020 with this PowerBI-driven initiative. Explore detailed reports and compelling visualizations that deliver strategic intelligence for stakeholders in the healthcare landscape.</b></li></ul><hr>
+<li><b><u>Empowering Informed Healthcare Decisions through Analytical Insights:</b></u> Discover valuable insights into the U.S. healthcare industry from 2019 to 2020 with this PowerBI-driven initiative. Explore detailed reports and compelling visualizations that deliver strategic intelligence for stakeholders in the healthcare landscape.</li></ul><hr>
 
 <h3>Highlights</h3><hr>
 <ul>
-  <li><b>Executive Summary:</b> A concise overview of key insights and findings, providing valuable information for decision-makers in the healthcare sector.</li>
+  <li><b><u>Executive Summary:</b></u> A concise overview of key insights and findings, providing valuable information for decision-makers in the healthcare sector.</li><br>
 
-<li><b>Hospital Insights:</b> Delve into in-depth analyses of hospital performance and trends, offering strategic perspectives for healthcare administrators. This includes detailed metrics on patient admissions, discharge rates, and overall hospital efficiency.</li>
+<li><b><u>Hospital Insights:</b></u> Delve into in-depth analyses of hospital performance and trends, offering strategic perspectives for healthcare administrators. This includes detailed metrics on patient admissions, discharge rates, and overall hospital efficiency.</li><br>
 
-<li><b>Patient Outcome Analysis:</b> Explore an examination of patient-related data and outcomes, revealing actionable insights for improved patient care. This analysis includes patient demographics, treatment efficacy, and potential areas for enhanced medical interventions.</li>
+<li><b><u>Patient Outcome Analysis:</b></u> Explore an examination of patient-related data and outcomes, revealing actionable insights for improved patient care. This analysis includes patient demographics, treatment efficacy, and potential areas for enhanced medical interventions.</li><br>
 
-<li><b>Healthcare Provider Metrics:</b> Gain insights into payer-provider relationships and metrics, crucial for optimizing the healthcare provider landscape. This section comprehensively analyzes financial interactions between healthcare providers and payers, identifying potential areas for cost optimization and revenue enhancement.</li>
+<li><b><u>Healthcare Provider Metrics:</b></u> Gain insights into payer-provider relationships and metrics, crucial for optimizing the healthcare provider landscape. This section comprehensively analyzes financial interactions between healthcare providers and payers, identifying potential areas for cost optimization and revenue enhancement.</li><br>
 
-<li><b>Monthly Expenses Trends:</b> Visual representation of monthly aggregated expenses, offering financial insights to guide resource allocation. This analysis includes a breakdown of expenses, highlighting trends, and areas for potential cost savings.</li>
+<li><b><u>Monthly Expenses Trends:</b></u> Visual representation of monthly aggregated expenses, offering financial insights to guide resource allocation. This analysis includes a breakdown of expenses, highlighting trends, and areas for potential cost savings.</li><br>
 
-<li><b>Purpose Section:</b> Explore the purpose section, setting the context for the project and its objectives. Understand the driving force behind the U.S. Healthcare Analytics Insights initiative.</li>
+<li><b><u>Purpose Section:</b></u> Explore the purpose section, setting the context for the project and its objectives. Understand the driving force behind the U.S. Healthcare Analytics Insights initiative.</li></br>
 
-<li><b>ER-Diagram:</b> The Entity Relationship Diagram visually represents the data structure and relationships within the healthcare analytics project. Gain a deeper understanding of the underlying data architecture.</li></ul><hr>
+<li><b><u>ER-Diagram:</b></u> The Entity Relationship Diagram visually represents the data structure and relationships within the healthcare analytics project. Gain a deeper understanding of the underlying data architecture.</li></ul><hr>
 
 <h3>Insights</h3><hr>
 <b>Executive Summary</b>
